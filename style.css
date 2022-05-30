@@ -24,7 +24,7 @@ header {
 .titulo {
     font-size: 50px;
     text-align: right;
-    margin-right: 15%;
+    margin-right: 2%;
     color: #FFC54A;
 }
 
@@ -34,13 +34,14 @@ header {
 
 .tabla {
     text-align: center;
-    margin-top: 10%;
+    margin-top: 0.5%;
+    margin-bottom: 15%;
     border: 1px solid black;
     border-collapse: collapse;
     box-shadow: 10px 5px 5px black;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 97%;
 }
 
 th {
